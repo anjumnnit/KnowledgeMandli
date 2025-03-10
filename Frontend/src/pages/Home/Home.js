@@ -1,10 +1,9 @@
-import './App.css';
+import './home.css';
 
-function App() {
+function home() {
   return (
     <div className="App">
       <header className="App-header">
-        hey hey
         
       </header>
     </div>
